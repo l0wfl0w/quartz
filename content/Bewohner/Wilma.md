@@ -13,4 +13,3 @@ title: "Wilma"
 - [[private/Daily Notes/2021-10-01]] @[🐨Felix](private/🐨Felix.md) ==Wilma== oder Lina?  [🦝Flo](private/🦝Flo.md)
 - 
 ---
-#Character

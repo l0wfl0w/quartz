@@ -9,6 +9,3 @@ title: "Benny der Bilch"
 - [[private/Daily Notes/2021-10-13]] - wieder zurück umbenannt in "Bilch" von [🐨Felix](private/🐨Felix.md)
 - [[private/Daily Notes/2021-10-01]] angelegt von [🦝Flo](private/🦝Flo.md)
 ---
-#Character
-
-test test!

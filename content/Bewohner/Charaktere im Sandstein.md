@@ -40,4 +40,3 @@ title: "Charaktere im Sandstein"
 [[private/Daily Notes/2021-10-13]] - mehr Charaktere und Details eingefügt [🐨Felix](private/🐨Felix.md)
 [[private/Daily Notes/2021-10-01]] 
 
-#Home

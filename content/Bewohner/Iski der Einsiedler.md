@@ -15,4 +15,3 @@ title: "Iski der Einsiedler"
 *Kommentare*
 - [[private/Daily Notes/2021-11-07]] Seite erstellt [🐨Felix](private/🐨Felix.md)
 ---
-#Character
