@@ -1,4 +1,4 @@
-name: 🐨Felix & 🦝Flo
+name: 🐨Felix und 🦝Flo
 enableToc: false
 openToc: false
 enableLinkPreview: true
@@ -10,7 +10,7 @@ enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
-enableGitHubEdit: true
+enableGitHubEdit: false
 GitHubLink: https://l0wfl0w.github.io/quartz/
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
