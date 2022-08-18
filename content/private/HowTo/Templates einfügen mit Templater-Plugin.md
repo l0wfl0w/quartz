@@ -12,4 +12,4 @@
 
 
 #HowTo
-[[2021-11-07]] [[🦝Flo]]
+[[private/Daily Notes/2021-11-07]] [[private/🦝Flo]]

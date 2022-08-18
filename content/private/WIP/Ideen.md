@@ -8,6 +8,6 @@
 #####
 ---
 *Kommentare*
-- [[2021-11-07]] Ideen eingefügt [[🐨Felix]]
+- [[private/Daily Notes/2021-11-07]] Ideen eingefügt [[private/🐨Felix]]
 ---
 #Welt

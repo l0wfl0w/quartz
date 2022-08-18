@@ -1,3 +1,6 @@
+---
+title: "Iski der Einsiedler"
+---
 # Iski der Einsiedler
 - ebenfalls ein Troll mit spitzen Ohren und charakteristischen Troll-Merkmalen (?)
 - Gießkanne, Vollbart, lustiger Hut, Wanderstock, barfuß, alt und faltig aber kräftig
@@ -10,6 +13,6 @@
 #####
 ---
 *Kommentare*
-- [[2021-11-07]] Seite erstellt [🐨Felix](Stuff/🐨Felix.md)
+- [[private/Daily Notes/2021-11-07]] Seite erstellt [🐨Felix](private/🐨Felix.md)
 ---
 #Character

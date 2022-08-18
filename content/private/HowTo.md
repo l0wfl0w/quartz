@@ -1,8 +1,11 @@
+---
+title: "HowTo"
+---
 # HowTo
 
 *Hier **gerne** Fragen posten*
 
-## ToDos für @[[🦝Flo]]
+## ToDos für @[[private/🦝Flo]]
 - [ ] Darstellung Formatierungsoptionen
 - [ ] Darstellung Header
 - [ ] Anleitung Header Embed

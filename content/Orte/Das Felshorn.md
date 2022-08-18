@@ -1,3 +1,6 @@
+---
+title: "Das Felshorn"
+---
 # Das Felshorn
 - großer Felsen, der durch Aushöhlungen und Gänge im Inneren wie ein riesiges Instrument funktioniert
 - wenn Wind aus bestimmter Richtung weht (meist morgens), werden Töne erzeugt

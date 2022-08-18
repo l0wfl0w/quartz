@@ -1,26 +1,17 @@
 ---
-title: 🪴 Quartz 3.2
+title: "_index"
 ---
+# Eingang in die Sandsteinwelten
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+Willkommen in den Sandsteinwelten!
+Was möchstest du entdecken? 
 
-1. Extremely fast natural-language [[notes/search|search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+#### [Charaktere im Sandstein](Bewohner/Charaktere%20im%20Sandstein.md)
+#### [Elemente im Sandstein](Magie%20und%20Elemente/Elemente%20im%20Sandstein.md)
+#### [Magie im Sandstein](Magie%20und%20Elemente/Magie%20im%20Sandstein.md)
+#### [Orte im Sandstein](Orte/Orte%20im%20Sandstein.md)
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+[[Test]]
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
-
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
-
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
-
+#Home

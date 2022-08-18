@@ -1,3 +1,6 @@
+---
+title: "Lina"
+---
 # Lina
 *Ein kleiner Troll, mutig und pragmatisch, aber ein bisschen einfach, mit dem Kopf durch die Wand, wohnt am Fuß des Felsens in einer kleinen Höhle, hilft Freunden, lebt von Beeren und Früchten, Honig der Bienen, sammelt Wasser von Tautropfen in ausgehöhlten Eicheln, trinkt Tee gebrüht aus Kiefernnadeln, macht sich Kleidung aus geflochtenen Heidegräsern*
 
@@ -11,6 +14,6 @@
 #####
 ---
 *Kommentare*
-- [[2021-10-01]] angelegt von [🦝Flo](Stuff/🦝Flo.md)
+- [[private/Daily Notes/2021-10-01]] angelegt von [🦝Flo](private/🦝Flo.md)
 ---
 #Character

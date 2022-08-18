@@ -1,3 +1,6 @@
+---
+title: "Magie im Sandstein"
+---
 # Magie im Sandstein
 ## Idee
 Geschichte der sprechenden Tiere und Fabelwesen an bestimmten Felsen und Orten in der sächsischen Schweiz
@@ -8,7 +11,7 @@ Magie stellt ähnlich zum Scheibenwelt-Universum eine intuitive Erweiterung nat�
 Dabei liegt der Fokus vor allem auf dem klassischen Bild der 4 [Elemente im Sandstein](Magie%20und%20Elemente/Elemente%20im%20Sandstein.md): [[Erde]], [[Luft]], [[Wasser]], [[Wind]]. Z.B. der [[Wind]] erhält seinen Auftrieb durch die [[Windfee]]n, die den Vögeln unter die Flügel greifen und sie tragen. Die [[Baumschrat]]e sind Wächter der Bäume und beschützen diese, stellen eine Personifikation eines [[Baum]]es dar. Entsprechend haben Wesen eines Elements in begrenztem Maß Einfluss auf diese Elemente. Mächtigere Wesen haben mehr Einfluss und können z.T. die astralen Repräsentationen der Elemente stärker beeinflussen.
 
 ##
-[[2021-10-13]] Inhalte generiert [🐨Felix](Stuff/🐨Felix.md)
-[[2021-10-01]] 
+[[private/Daily Notes/2021-10-13]] Inhalte generiert [🐨Felix](private/🐨Felix.md)
+[[private/Daily Notes/2021-10-01]] 
 
 #Home

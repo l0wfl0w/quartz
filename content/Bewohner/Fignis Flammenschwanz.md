@@ -1,3 +1,6 @@
+---
+title: "Fignis Flammenschwanz"
+---
 # Fignis Flammenschwanz
 *Feuersalamaner, König des Feuers, gibt sich als Ferdinand Feuersalamander aus*
 
@@ -5,6 +8,6 @@
 #####
 ---
 *Kommentare*
-- [[2021-10-01]] erstellt von [🦝Flo](Stuff/🦝Flo.md)
+- [[private/Daily Notes/2021-10-01]] erstellt von [🦝Flo](private/🦝Flo.md)
 ---
 #Character

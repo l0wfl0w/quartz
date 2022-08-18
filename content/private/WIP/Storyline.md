@@ -25,7 +25,7 @@ Feuer: unberechenbar, aufbrausend, aggressiv, schwer zu kontrollieren, Zielstreb
 #####
 ---
 *Kommentare*
- [[2021-10-13]] ein paar Infos eingefügt [[🐨Felix]]
-- [[2021-10-03]] Seite erstellt. Welt als Template. Sinnvoll? [[🐨Felix]]
+ [[private/Daily Notes/2021-10-13]] ein paar Infos eingefügt [[private/🐨Felix]]
+- [[private/Daily Notes/2021-10-03]] Seite erstellt. Welt als Template. Sinnvoll? [[private/🐨Felix]]
 ---
 #Welt

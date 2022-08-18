@@ -1,3 +1,6 @@
+---
+title: "Charaktere im Sandstein"
+---
 # Charaktere - Übersicht
 [Lina](Bewohner/Lina.md) 
 [Wilma](Bewohner/Wilma.md) die Wanderfalkin, Weltenbummlerin, etwas chaotisch, zukünftige beste Freundin von Wilma, hat sich bei der Kollision mit dem Falkenstein den Flügel verletzt
@@ -34,7 +37,7 @@
 
 ##
 ---
-[[2021-10-13]] - mehr Charaktere und Details eingefügt [🐨Felix](Stuff/🐨Felix.md)
-[[2021-10-01]] 
+[[private/Daily Notes/2021-10-13]] - mehr Charaktere und Details eingefügt [🐨Felix](private/🐨Felix.md)
+[[private/Daily Notes/2021-10-01]] 
 
 #Home

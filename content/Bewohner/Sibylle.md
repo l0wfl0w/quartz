@@ -1,3 +1,6 @@
+---
+title: "Sibylle"
+---
 # Sibylle
 *Sibylle die Kreuzspinne: - freundlich und hilfsbereit, tratscht manchmal etwas viel*
 
