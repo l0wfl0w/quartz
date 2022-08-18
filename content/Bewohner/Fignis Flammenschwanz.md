@@ -5,6 +5,6 @@
 #####
 ---
 *Kommentare*
-- [[2021-10-01]] erstellt von [[🦝Flo]]
+- [[2021-10-01]] erstellt von [🦝Flo](Stuff/🦝Flo.md)
 ---
 #Character

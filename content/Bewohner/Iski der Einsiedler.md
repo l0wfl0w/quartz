@@ -10,6 +10,6 @@
 #####
 ---
 *Kommentare*
-- [[2021-11-07]] Seite erstellt [[🐨Felix]]
+- [[2021-11-07]] Seite erstellt [🐨Felix](Stuff/🐨Felix.md)
 ---
 #Character

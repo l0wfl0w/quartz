@@ -12,6 +12,6 @@ Wald, der von der Dürre schwer geschädigt ist. Bäume sind vertrocknet und hab
 #####
 ---
 *Kommentare*
-- [[2021-11-07]] neuen Ort erstellt und mit Infos gefüllt [[🐨Felix]]
+- [[2021-11-07]] neuen Ort erstellt und mit Infos gefüllt [🐨Felix](Stuff/🐨Felix.md)
 ---
 #Location

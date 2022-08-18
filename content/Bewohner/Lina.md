@@ -11,6 +11,6 @@
 #####
 ---
 *Kommentare*
-- [[2021-10-01]] angelegt von [[🦝Flo]]
+- [[2021-10-01]] angelegt von [🦝Flo](Stuff/🦝Flo.md)
 ---
 #Character

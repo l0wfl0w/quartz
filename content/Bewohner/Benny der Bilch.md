@@ -3,8 +3,8 @@
 #####
 ---
 *Kommentare*
-- [[2021-10-13]] - wieder zurück umbenannt in "Bilch" von [[🐨Felix]]
-- [[2021-10-01]] angelegt von [[🦝Flo]]
+- [[2021-10-13]] - wieder zurück umbenannt in "Bilch" von [🐨Felix](Stuff/🐨Felix.md)
+- [[2021-10-01]] angelegt von [🦝Flo](Stuff/🦝Flo.md)
 ---
 #Character
 

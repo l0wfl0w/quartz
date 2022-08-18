@@ -4,6 +4,7 @@ Tiefes Tal am nördlichen Rand der Affensteine, Birken knicken zum Talgrund hina
 #####
 ---
 *Kommentare*
-[[2021-12-21]] Neuer Ort erstellt [[🐨Felix]]
+[[2021-12-21]] Neuer Ort erstellt [🐨Felix](Stuff/🐨Felix.md)
+
 ---
 #Location

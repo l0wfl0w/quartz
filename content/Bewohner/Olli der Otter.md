@@ -6,7 +6,7 @@ Familie: Olga (Frau), Ida und Emil (Kinder)
 #####
 ---
 *Kommentare*
-- [[2021-10-03]] [[🦝Flo]] Hey, hab mal diese Seite erstellt!
-	- [[2021-10-03]] [[🐨Felix]] ah ja, das wollte ich auch schon machen
+- [[2021-10-03]] [🦝Flo](Stuff/🦝Flo.md) Hey, hab mal diese Seite erstellt!
+	- [[2021-10-03]] [🐨Felix](Stuff/🐨Felix.md) ah ja, das wollte ich auch schon machen
 ---
 #Character

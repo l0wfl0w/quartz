@@ -3,7 +3,7 @@ Wohnort der Protagonistin [[Lina]], Gemeinschaft mehrerer ortsansässiger Indivi
 ...
 #####
 ---
-- [[2021-10-13]] Infos eingefügt [[🐨Felix]]
+- [[2021-10-13]] Infos eingefügt [🐨Felix](Stuff/🐨Felix.md)
 - .
 ---
 #Location
