@@ -1,14 +1,12 @@
 ---
 title: "_index"
 ---
-# Eingang in die Sandsteinwelten
+# 🌊 Artificial Ocean
 
-Willkommen in den Sandsteinwelten!
-Was möchstest du entdecken? 
+Hi! I am Florian Lohse, a designer & engineer, interested in and working on Cinema Futures.
+Artificial Ocean is my platform for writing and thinking in the virtual public on the topics and projects I am working on [[content/Now|Now]].
 
-#### [Charaktere im Sandstein](Bewohner/Charaktere%20im%20Sandstein.md)
-#### [Elemente im Sandstein](Magie%20und%20Elemente/Elemente%20im%20Sandstein.md)
-#### [Magie im Sandstein](Magie%20und%20Elemente/Magie%20im%20Sandstein.md)
-#### [Orte im Sandstein](Orte/Orte%20im%20Sandstein.md)
-
-Viel Spaß beim Entdecken!
+This Site is structured in three sections:
+Temporary **Thoughts**, posted in chronological order.
+More refined **Ideas**, connected in the way of a Digital Garden.
+Longer **[[content/Essays|Essays]]**, published on different plattforms.

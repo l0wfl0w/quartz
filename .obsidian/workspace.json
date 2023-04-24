@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "96b92ad24a81c7d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "9eea0d7fbe78722b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de6b5092e6c92d09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Now.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b13080a21755b88e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ed94b8873306c016",
+    "type": "split",
+    "children": [
+      {
+        "id": "138fa659694b0d41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f259818c02a16a66",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "46522251e06411c8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d9c814de57164c23",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "80ed0e8f75fb6d2a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "574d029c2db55538",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c7701e9f9fc0e94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c88df617b5f93757",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/_index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c62103ebc088a1b6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/_index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fdaf58ac38c88301",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "76d0d186df107c91",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/_index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b13080a21755b88e",
+  "lastOpenFiles": [
+    "content/Now.md",
+    "content/Essays.md",
+    "content/_index.md",
+    "content/Magie und Elemente/Magie im Sandstein.md",
+    "content/Orte/Das Felshorn.md",
+    "content/Bewohner/Benny der Bilch.md",
+    "resources/_gen/assets/scss/styles/syntax.scss_c25f88f67e8e33f20619c76cbf49f33c.json",
+    "resources/_gen/assets/scss/styles/syntax.scss_c25f88f67e8e33f20619c76cbf49f33c.content",
+    "resources/_gen/assets/scss/styles/darkmode.scss_c25f88f67e8e33f20619c76cbf49f33c.json",
+    "resources/_gen/assets/scss/styles/darkmode.scss_c25f88f67e8e33f20619c76cbf49f33c.content",
+    "resources/_gen/assets/scss/styles/custom.scss_c25f88f67e8e33f20619c76cbf49f33c.json",
+    "resources/_gen/assets/scss/styles/custom.scss_c25f88f67e8e33f20619c76cbf49f33c.content",
+    "resources/_gen/assets/scss/styles/code-title.scss_c25f88f67e8e33f20619c76cbf49f33c.json",
+    "resources/_gen/assets/scss/styles/code-title.scss_c25f88f67e8e33f20619c76cbf49f33c.content",
+    "resources/_gen/assets/scss/styles/clipboard.scss_c25f88f67e8e33f20619c76cbf49f33c.json",
+    "resources/_gen/assets/scss/styles/clipboard.scss_c25f88f67e8e33f20619c76cbf49f33c.content"
+  ]
+}
