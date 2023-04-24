@@ -10,3 +10,5 @@ This Site is structured in three sections:
 Temporary **Thoughts**, posted in chronological order.
 More refined **Ideas**, connected in the way of a Digital Garden.
 Longer **[[content/Essays|Essays]]**, published on different plattforms.
+
+...
